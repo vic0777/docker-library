@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-examples/mnist/web-ui:v20190112-v0.2-142-g3b38225
